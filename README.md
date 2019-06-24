@@ -6,5 +6,5 @@ The goal is to implement a CNN using only functional programming paradigm of Sca
 
 To execute (in the project directory):
 1. Run ***scalac CNN.scala driver.scala*** to compile the code.
-2. Run ***scala pplAssignment.Driver t*.in > t*.check*** to produce the output.
-3. Run ***diff t*.check t*.out*** to compare against the expected output.
+2. Run ***scala pplAssignment.Driver t\*.in > t\*.check*** to produce the output.
+3. Run ***diff t\*.check t\*.out*** to compare against the expected output.
